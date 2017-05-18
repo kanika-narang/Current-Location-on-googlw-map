@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">MapAPP</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="title_activity_front">FrontActivity</string>
+
+
+    <string-array name="Locations">
+        <item>EGL</item>
+        <item>Electronic City</item>
+        <item>Kormangla</item>
+        <item>Indiranagar</item>
+        <item>Madiwala</item>
+        <item>Current Location</item>
+    </string-array>
+
+
+    <string-array name="Categories">
+        <item>clothing_store</item>
+        <item>beauty_salon</item>
+        <item>book_store</item>
+        <item>bakery</item>
+        <item>cafe</item>
+        <item>departmental_store</item>
+        <item>clothing_store</item>
+        <item>furniture_store</item>
+        <item>gym</item>
+        <item>jewelry_store</item>
+        <item>laundary</item>
+        <item>pet_store</item>
+        <item>pharmacy</item>
+        <item>restaurant</item>
+
+    </string-array>
+
+    <string name="radio_male">Male</string>
+    <string name="radio_female">Female</string>
+    <string name="btn_display">Display</string>
+</resources>
